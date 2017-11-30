@@ -1,0 +1,10 @@
+F:\ASPNET_学习\Asp.Net MVC+EF+三层架构的完整搭建过程\Compay\Company.IBLL\bin\Debug\Company.IBLL.dll
+F:\ASPNET_学习\Asp.Net MVC+EF+三层架构的完整搭建过程\Compay\Company.IBLL\bin\Debug\Company.IBLL.pdb
+F:\ASPNET_学习\Asp.Net MVC+EF+三层架构的完整搭建过程\Compay\Company.IBLL\obj\Debug\Company.IBLL.csprojResolveAssemblyReference.cache
+F:\ASPNET_学习\Asp.Net MVC+EF+三层架构的完整搭建过程\Compay\Company.IBLL\obj\Debug\Company.IBLL.dll
+F:\ASPNET_学习\Asp.Net MVC+EF+三层架构的完整搭建过程\Compay\Company.IBLL\obj\Debug\Company.IBLL.pdb
+F:\ASPNET_学习\Asp.Net MVC+EF+三层架构的完整搭建过程\Compay\Company.IBLL\bin\Debug\Company.Model.dll
+F:\ASPNET_学习\Asp.Net MVC+EF+三层架构的完整搭建过程\Compay\Company.IBLL\bin\Debug\EntityFramework.dll
+F:\ASPNET_学习\Asp.Net MVC+EF+三层架构的完整搭建过程\Compay\Company.IBLL\bin\Debug\Company.Model.pdb
+F:\ASPNET_学习\Asp.Net MVC+EF+三层架构的完整搭建过程\Compay\Company.IBLL\bin\Debug\EntityFramework.xml
+F:\ASPNET_学习\Asp.Net MVC+EF+三层架构的完整搭建过程\Compay\Company.IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
